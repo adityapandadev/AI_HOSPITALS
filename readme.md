@@ -17,7 +17,7 @@
 
 _**This Web Application is deployed using heroku**_
 
-## Link 🔗 -> [AI_HOSPITALS](https://aihospitals.herokuapp.com)
+## Link 🔗 -> [AI_HOSPITALS](http://aihospitals.herokuapp.com)
 
 > 💡 Note : Initial load time of the web application is slower since this project is hosted using heroku free dynos.
 
